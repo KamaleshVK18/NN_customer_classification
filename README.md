@@ -98,7 +98,7 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ### New Sample Data Prediction
 
-<img width="1608" height="173" alt="image" src="https://github.com/user-attachments/assets/83d7f5da-85ac-499c-8c69-27702b558570" />
+<img width="1694" height="134" alt="image" src="https://github.com/user-attachments/assets/3f8002cd-42db-4ff9-a1ca-0aba1bf620f2" />
 
 
 ## RESULT

@@ -34,8 +34,8 @@ Evaluate the trained model using test data and use it to predict the customer se
 
 ## PROGRAM
 
-### Name: AHIL SANTO A
-### Register Number: 212224040018
+### Name:V KAMALESH VIJAYAKUMAR
+### Register Number: 212224110028
 
 ```python
 # Define Neural Network(Model1)
